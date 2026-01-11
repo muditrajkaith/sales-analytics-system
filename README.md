@@ -8,7 +8,7 @@
 
 Replicate the below folder structure in your local machine after downloading the files from - 
 
-"https://github.com/muditrajkaith/mudit-raj-kaith-25071759/sales-analytics-system"
+"https://github.com/muditrajkaith/sales-analytics-system"
 
  
 
